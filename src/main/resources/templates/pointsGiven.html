@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Points Given</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <style>
+        body {
+            background-color: #6ea8dd;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        .card {
+            background-color: white;
+            color: black;
+            margin-top: 10px;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            width: 200px;
+            transition: transform 0.2s;
+        }
+        .card:hover {
+            transform: scale(1.05);
+        }
+        h1 {
+            font-weight: bold;
+            text-align: center;
+        }
+        .card-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .card-field {
+            margin-bottom: 5px;
+            text-transform: capitalize;
+        }
+        .card-button {
+            background-color: #6ea8dd;
+            color: white;
+            border: none;
+            padding: 10px 30px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        .card-button:hover {
+            background-color: #5a94c7;
+        }
+        .capitalize-first::first-letter {
+            text-transform: capitalize;
+        }
+    </style>
+</head>
+<body>
+<div th:replace="header :: header"></div>
+<div class="container">
+    <h1>Points Given by Country</h1>
+    <div class="card-container">
+        <div class="card" th:each="connection : ${connected}">
+            <div class="card-field capitalize-first">
+                <strong>From: </strong> <span th:text="${connection.startNode}"></span>
+            </div>
+            <div class="card-field capitalize-first">
+                <strong>To: </strong> <span th:text="${connection.endNode}"></span>
+            </div>
+            <a th:href="@{/history(start=${connection.startNode}, end=${connection.endNode})}">
+                <button class="card-button" aria-label="View history">History</button>
+            </a>
+        </div>
+    </div>
+</div>
+</body>
+</html>

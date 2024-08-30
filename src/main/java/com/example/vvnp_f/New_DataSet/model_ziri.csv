@@ -1,0 +1,871 @@
+From,To,Predicted_Points
+albania,azerbaijan,4
+albania,bosnia & herzegovina,5
+albania,croatia,2
+albania,cyprus,7
+albania,denmark,2
+albania,france,1
+albania,germany,6
+albania,greece,12
+albania,iceland,6
+albania,israel,4
+albania,israel ,3
+albania,malta,4
+albania,north macedonia,10
+albania,norway,7
+albania,romania,5
+albania,serbia,3
+albania,serbia & montenegro,6
+albania,spain,7
+albania,sweden,1
+albania,turkey,9
+albania,united kingdom,4
+armenia,azerbaijan,1
+armenia,denmark,5
+armenia,france,6
+armenia,georgia,12
+armenia,greece,6
+armenia,iceland,5
+armenia,moldova,2
+armenia,norway,5
+armenia,portugal,4
+armenia,romania,1
+armenia,russia,11
+armenia,spain,7
+armenia,turkey,4
+armenia,ukraine,5
+armenia,united kingdom,7
+austria,azerbaijan,8
+austria,belgium,3
+austria,bosnia & herzegovina,12
+austria,denmark,3
+austria,finland,7
+austria,france,10
+austria,germany,5
+austria,greece,4
+austria,hungary,2
+austria,ireland,6
+austria,israel,7
+austria,italy,3
+austria,luxembourg,4
+austria,moldova,5
+austria,monaco,5
+austria,norway,1
+austria,portugal,7
+austria,romania,1
+austria,serbia,7
+austria,slovenia,3
+austria,spain,6
+austria,switzerland,8
+austria,the netherlands,6
+austria,turkey,3
+austria,united kingdom,7
+azerbaijan,bosnia & herzegovina,2
+azerbaijan,croatia,5
+azerbaijan,denmark,4
+azerbaijan,estonia,4
+azerbaijan,georgia,9
+azerbaijan,germany,1
+azerbaijan,greece,8
+azerbaijan,hungary,2
+azerbaijan,israel,5
+azerbaijan,italy,1
+azerbaijan,lithuania,1
+azerbaijan,moldova,7
+azerbaijan,norway,8
+azerbaijan,romania,5
+azerbaijan,russia,4
+azerbaijan,sweden,3
+azerbaijan,turkey,12
+azerbaijan,ukraine,10
+azerbaijan,united kingdom,3
+belarus,armenia,5
+belarus,azerbaijan,6
+belarus,georgia,7
+belarus,iceland,2
+belarus,israel,8
+belarus,moldova,4
+belarus,romania,1
+belarus,russia,12
+belarus,turkey,3
+belarus,ukraine,10
+belgium, yugoslavia,1
+belgium,albania,3
+belgium,armenia,7
+belgium,austria,3
+belgium,azerbaijan,5
+belgium,cyprus,5
+belgium,denmark,7
+belgium,france,6
+belgium,georgia,4
+belgium,germany,7
+belgium,greece,5
+belgium,iceland,8
+belgium,ireland,7
+belgium,israel,5
+belgium,italy,6
+belgium,luxembourg,6
+belgium,monaco,5
+belgium,norway,5
+belgium,portugal,4
+belgium,spain,5
+belgium,sweden,4
+belgium,switzerland,7
+belgium,the netherlands,4
+belgium,turkey,6
+belgium,united kingdom,8
+belgium,yugoslavia,5
+croatia,albania,3
+croatia,azerbaijan,10
+croatia,bosnia & herzegovina,11
+croatia,estonia,6
+croatia,greece,6
+croatia,hungary,6
+croatia,iceland,2
+croatia,latvia,7
+croatia,malta,4
+croatia,moldova,2
+croatia,north macedonia,8
+croatia,norway,8
+croatia,serbia & montenegro,12
+croatia,switzerland,3
+croatia,turkey,1
+croatia,united kingdom,4
+cyprus,armenia,7
+cyprus,azerbaijan,10
+cyprus,belgium,5
+cyprus,france,5
+cyprus,georgia,5
+cyprus,germany,6
+cyprus,greece,10
+cyprus,hungary,7
+cyprus,ireland,12
+cyprus,israel,2
+cyprus,latvia,1
+cyprus,malta,6
+cyprus,moldova,2
+cyprus,norway,3
+cyprus,romania,8
+cyprus,serbia,1
+cyprus,serbia & montenegro,10
+cyprus,sweden,1
+cyprus,switzerland,7
+cyprus,the netherlands,2
+cyprus,ukraine,6
+cyprus,united kingdom,4
+cyprus,yugoslavia,3
+denmark, france,1
+denmark,austria,3
+denmark,azerbaijan,5
+denmark,belgium,7
+denmark,bosnia & herzegovina,4
+denmark,cyprus,2
+denmark,estonia,5
+denmark,france,5
+denmark,germany,8
+denmark,greece,2
+denmark,iceland,6
+denmark,ireland,8
+denmark,israel,4
+denmark,italy,3
+denmark,latvia,6
+denmark,lithuania,1
+denmark,luxembourg,5
+denmark,malta,10
+denmark,monaco,7
+denmark,norway,10
+denmark,portugal,5
+denmark,romania,6
+denmark,spain,8
+denmark,sweden,6
+denmark,switzerland,5
+denmark,the netherlands,7
+denmark,turkey,7
+denmark,united kingdom,7
+denmark,yugoslavia,3
+estonia,albania,1
+estonia,azerbaijan,7
+estonia,finland,4
+estonia,iceland,8
+estonia,israel,5
+estonia,lithuania,2
+estonia,norway,12
+estonia,portugal,3
+estonia,russia,10
+estonia,sweden,6
+finland,armenia,1
+finland,austria,4
+finland,azerbaijan,2
+finland,belgium,6
+finland,bosnia & herzegovina,6
+finland,denmark,7
+finland,estonia,12
+finland,france,5
+finland,germany,6
+finland,greece,5
+finland,iceland,10
+finland,ireland,6
+finland,israel,9
+finland,italy,5
+finland,luxembourg,5
+finland,malta,3
+finland,monaco,5
+finland,norway,8
+finland,portugal,1
+finland,spain,7
+finland,sweden,4
+finland,switzerland,9
+finland,the netherlands,7
+finland,turkey,5
+finland,united kingdom,6
+finland,yugoslavia,8
+france, spain,8
+france,albania,1
+france,armenia,6
+france,austria,4
+france,azerbaijan,1
+france,belgium,8
+france,bosnia & herzegovina,5
+france,denmark,5
+france,finland,3
+france,germany,6
+france,greece,6
+france,hungary,3
+france,ireland,6
+france,israel,5
+france,italy,6
+france,luxembourg,4
+france,malta,7
+france,moldova,2
+france,monaco,3
+france,norway,5
+france,portugal,8
+france,romania,5
+france,serbia,10
+france,serbia & montenegro,6
+france,spain,3
+france,sweden,6
+france,switzerland,8
+france,the netherlands,7
+france,turkey,12
+france,ukraine,2
+france,united kingdom,6
+france,yugoslavia,4
+georgia,armenia,10
+georgia,austria,3
+georgia,azerbaijan,8
+georgia,belarus,12
+georgia,france,2
+georgia,greece,6
+georgia,israel,4
+georgia,italy,7
+georgia,lithuania,12
+georgia,moldova,3
+georgia,norway,6
+georgia,russia,4
+georgia,spain,2
+georgia,sweden,1
+georgia,turkey,5
+georgia,ukraine,8
+georgia,united kingdom,3
+germany,albania,1
+germany,armenia,7
+germany,austria,7
+germany,belgium,6
+germany,bosnia & herzegovina,4
+germany,croatia,2
+germany,cyprus,6
+germany,denmark,6
+germany,estonia,1
+germany,finland,4
+germany,france,9
+germany,greece,6
+germany,iceland,5
+germany,ireland,5
+germany,israel,8
+germany,italy,4
+germany,latvia,7
+germany,luxembourg,6
+germany,malta,6
+germany,moldova,3
+germany,monaco,7
+germany,norway,9
+germany,portugal,4
+germany,russia,5
+germany,serbia,5
+germany,serbia & montenegro,3
+germany,slovenia,1
+germany,spain,9
+germany,sweden,4
+germany,switzerland,7
+germany,the netherlands,4
+germany,turkey,10
+germany,united kingdom,6
+germany,yugoslavia,2
+greece,albania,9
+greece,armenia,7
+greece,austria,3
+greece,azerbaijan,4
+greece,belgium,7
+greece,croatia,2
+greece,cyprus,12
+greece,denmark,8
+greece,estonia,5
+greece,finland,4
+greece,france,7
+greece,georgia,5
+greece,germany,5
+greece,hungary,2
+greece,iceland,4
+greece,ireland,10
+greece,israel,4
+greece,italy,5
+greece,latvia,1
+greece,luxembourg,3
+greece,malta,8
+greece,moldova,7
+greece,monaco,8
+greece,norway,7
+greece,portugal,3
+greece,romania,4
+greece,serbia & montenegro,6
+greece,spain,4
+greece,sweden,6
+greece,switzerland,3
+greece,the netherlands,4
+greece,turkey,3
+greece,united kingdom,8
+greece,yugoslavia,3
+iceland,albania,7
+iceland,armenia,5
+iceland,azerbaijan,6
+iceland,belgium,10
+iceland,bosnia & herzegovina,2
+iceland,croatia,1
+iceland,denmark,9
+iceland,estonia,10
+iceland,finland,9
+iceland,france,6
+iceland,georgia,2
+iceland,germany,5
+iceland,greece,8
+iceland,hungary,5
+iceland,ireland,4
+iceland,italy,3
+iceland,norway,12
+iceland,portugal,4
+iceland,romania,5
+iceland,russia,1
+iceland,sweden,5
+iceland,united kingdom,2
+ireland,austria,8
+ireland,azerbaijan,3
+ireland,belgium,7
+ireland,cyprus,8
+ireland,denmark,5
+ireland,finland,7
+ireland,france,6
+ireland,georgia,5
+ireland,germany,5
+ireland,greece,4
+ireland,israel,8
+ireland,italy,8
+ireland,luxembourg,5
+ireland,monaco,6
+ireland,norway,5
+ireland,portugal,4
+ireland,romania,7
+ireland,spain,3
+ireland,sweden,5
+ireland,switzerland,7
+ireland,the netherlands,4
+ireland,turkey,1
+ireland,united kingdom,6
+ireland,yugoslavia,2
+israel,armenia,10
+israel,austria,7
+israel,azerbaijan,6
+israel,belgium,4
+israel,cyprus,6
+israel,denmark,6
+israel,finland,5
+israel,france,6
+israel,georgia,5
+israel,germany,7
+israel,greece,8
+israel,hungary,8
+israel,iceland,10
+israel,ireland,6
+israel,italy,2
+israel,latvia,6
+israel,luxembourg,4
+israel,malta,10
+israel,moldova,2
+israel,monaco,6
+israel,norway,5
+israel,portugal,1
+israel,romania,10
+israel,russia,10
+israel,russia ,7
+israel,spain,6
+israel,sweden,1
+israel,switzerland,4
+israel,the netherlands,6
+israel,turkey,3
+israel,ukraine,2
+israel,united kingdom,7
+italy, portugal,10
+italy,austria,4
+italy,belgium,7
+italy,finland,7
+italy,france,9
+italy,germany,6
+italy,greece,2
+italy,ireland,6
+italy,israel,9
+italy,luxembourg,12
+italy,monaco,7
+italy,morocco,7
+italy,norway,4
+italy,portugal,4
+italy,spain,7
+italy,sweden,5
+italy,switzerland,3
+italy,the netherlands,3
+italy,turkey,8
+italy,united kingdom,5
+latvia,croatia,7
+latvia,denmark,4
+latvia,hungary,3
+latvia,israel,2
+latvia,malta,5
+latvia,moldova,8
+latvia,norway,6
+latvia,russia,10
+latvia,serbia & montenegro,1
+latvia,switzerland,12
+lithuania,azerbaijan,5
+lithuania,denmark,2
+lithuania,estonia,10
+lithuania,france,6
+lithuania,iceland,8
+lithuania,malta,1
+lithuania,norway,12
+lithuania,russia,7
+lithuania,ukraine,4
+lithuania,united kingdom,3
+luxembourg,austria,5
+luxembourg,belgium,6
+luxembourg,denmark,6
+luxembourg,finland,6
+luxembourg,france,8
+luxembourg,germany,2
+luxembourg,greece,4
+luxembourg,ireland,8
+luxembourg,israel,8
+luxembourg,italy,3
+luxembourg,monaco,7
+luxembourg,norway,3
+luxembourg,portugal,4
+luxembourg,spain,6
+luxembourg,sweden,6
+luxembourg,switzerland,5
+luxembourg,the netherlands,7
+luxembourg,turkey,1
+luxembourg,united kingdom,8
+malta,azerbaijan,1
+malta,denmark,6
+malta,finland,3
+malta,greece,7
+malta,iceland,12
+malta,norway,8
+malta,sweden,4
+malta,turkey,5
+malta,ukraine,2
+malta,united kingdom,10
+moldova,armenia,6
+moldova,azerbaijan,9
+moldova,belarus,3
+moldova,croatia,2
+moldova,denmark,5
+moldova,estonia,6
+moldova,france,2
+moldova,georgia,6
+moldova,germany,2
+moldova,greece,2
+moldova,iceland,3
+moldova,israel,3
+moldova,latvia,12
+moldova,norway,6
+moldova,romania,11
+moldova,russia,8
+moldova,serbia & montenegro,1
+moldova,spain,4
+moldova,sweden,4
+moldova,ukraine,7
+moldova,united kingdom,2
+monaco,austria,5
+monaco,belgium,10
+monaco,denmark,3
+monaco,finland,7
+monaco,france,8
+monaco,germany,8
+monaco,greece,9
+monaco,ireland,7
+monaco,israel,5
+monaco,italy,7
+monaco,luxembourg,5
+monaco,norway,6
+monaco,portugal,3
+monaco,spain,4
+monaco,switzerland,3
+monaco,the netherlands,2
+monaco,united kingdom,8
+morocco,austria,3
+morocco,denmark,2
+morocco,france,1
+morocco,germany,10
+morocco,norway,4
+morocco,spain,5
+morocco,sweden,6
+morocco,switzerland,7
+morocco,turkey,12
+morocco,united kingdom,8
+norway,austria,3
+norway,azerbaijan,8
+norway,belgium,6
+norway,bosnia & herzegovina,7
+norway,croatia,2
+norway,cyprus,7
+norway,denmark,6
+norway,finland,5
+norway,france,4
+norway,georgia,1
+norway,germany,7
+norway,greece,3
+norway,iceland,9
+norway,ireland,10
+norway,israel,7
+norway,israel ,5
+norway,italy,4
+norway,latvia,8
+norway,luxembourg,4
+norway,moldova,3
+norway,monaco,3
+norway,portugal,7
+norway,romania,8
+norway,spain,6
+norway,sweden,5
+norway,switzerland,8
+norway,the netherlands,3
+norway,turkey,3
+norway,ukraine,5
+norway,united kingdom,7
+norway,yugoslavia,1
+portugal,armenia,4
+portugal,austria,3
+portugal,belgium,7
+portugal,denmark,3
+portugal,finland,1
+portugal,france,6
+portugal,germany,6
+portugal,greece,6
+portugal,iceland,8
+portugal,ireland,4
+portugal,israel,8
+portugal,israel ,5
+portugal,italy,7
+portugal,luxembourg,8
+portugal,moldova,9
+portugal,monaco,4
+portugal,norway,3
+portugal,romania,6
+portugal,russia,2
+portugal,spain,6
+portugal,switzerland,6
+portugal,the netherlands,6
+portugal,turkey,3
+portugal,ukraine,6
+portugal,united kingdom,8
+romania,albania,1
+romania,armenia,6
+romania,azerbaijan,7
+romania,belgium,4
+romania,denmark,7
+romania,estonia,1
+romania,germany,3
+romania,greece,8
+romania,hungary,7
+romania,iceland,10
+romania,italy,6
+romania,lithuania,1
+romania,malta,3
+romania,moldova,11
+romania,norway,5
+romania,slovenia,4
+romania,spain,3
+romania,sweden,3
+romania,turkey,7
+romania,ukraine,3
+russia,armenia,8
+russia,azerbaijan,7
+russia,belarus,2
+russia,belgium,5
+russia,croatia,1
+russia,denmark,1
+russia,estonia,8
+russia,france,10
+russia,georgia,10
+russia,germany,6
+russia,greece,4
+russia,hungary,3
+russia,iceland,3
+russia,israel,8
+russia,latvia,5
+russia,malta,12
+russia,moldova,5
+russia,norway,12
+russia,romania,3
+russia,serbia & montenegro,6
+russia,spain,4
+russia,switzerland,7
+russia,ukraine,4
+russia,united kingdom,6
+serbia,armenia,1
+serbia,belgium,5
+serbia,bosnia & herzegovina,12
+serbia,france,4
+serbia,germany,8
+serbia,greece,6
+serbia,hungary,8
+serbia,italy,2
+serbia,lithuania,7
+serbia,portugal,2
+serbia,romania,6
+serbia,russia,4
+serbia,slovenia,10
+serbia,sweden,1
+serbia,switzerland,5
+serbia,turkey,3
+serbia,ukraine,6
+slovenia,austria,5
+slovenia,bosnia & herzegovina,12
+slovenia,denmark,8
+slovenia,germany,7
+slovenia,italy,3
+slovenia,serbia,10
+slovenia,spain,2
+slovenia,sweden,4
+slovenia,ukraine,6
+slovenia,united kingdom,1
+spain,armenia,6
+spain,austria,6
+spain,azerbaijan,7
+spain,belgium,6
+spain,cyprus,7
+spain,denmark,5
+spain,finland,4
+spain,france,6
+spain,georgia,1
+spain,germany,9
+spain,greece,7
+spain,hungary,5
+spain,iceland,2
+spain,ireland,5
+spain,israel,6
+spain,israel ,6
+spain,italy,8
+spain,lithuania,1
+spain,luxembourg,6
+spain,malta,7
+spain,moldova,4
+spain,monaco,6
+spain,norway,2
+spain,norway ,12
+spain,portugal,5
+spain,romania,9
+spain,serbia,4
+spain,sweden,3
+spain,switzerland,3
+spain,the netherlands,4
+spain,turkey,3
+spain,ukraine,3
+spain,united kingdom,6
+sweden, denmark,10
+sweden,albania,1
+sweden,armenia,3
+sweden,austria,3
+sweden,azerbaijan,8
+sweden,belgium,4
+sweden,bosnia & herzegovina,6
+sweden,denmark,3
+sweden,estonia,7
+sweden,finland,4
+sweden,france,7
+sweden,germany,7
+sweden,greece,5
+sweden,iceland,10
+sweden,ireland,8
+sweden,israel,5
+sweden,italy,10
+sweden,latvia,3
+sweden,luxembourg,6
+sweden,malta,6
+sweden,monaco,11
+sweden,norway,8
+sweden,portugal,6
+sweden,romania,2
+sweden,serbia & montenegro,4
+sweden,spain,7
+sweden,switzerland,3
+sweden,the netherlands,3
+sweden,turkey,6
+sweden,united kingdom,8
+switzerland,albania,10
+switzerland,austria,4
+switzerland,azerbaijan,1
+switzerland,belgium,8
+switzerland,bosnia & herzegovina,5
+switzerland,croatia,8
+switzerland,cyprus,3
+switzerland,denmark,4
+switzerland,finland,6
+switzerland,france,9
+switzerland,germany,4
+switzerland,greece,5
+switzerland,ireland,7
+switzerland,israel,7
+switzerland,italy,5
+switzerland,luxembourg,5
+switzerland,malta,3
+switzerland,monaco,5
+switzerland,north macedonia,2
+switzerland,portugal,3
+switzerland,portugal ,4
+switzerland,serbia & montenegro,12
+switzerland,spain,6
+switzerland,sweden,5
+switzerland,the netherlands,5
+switzerland,turkey,6
+switzerland,united kingdom,7
+switzerland,yugoslavia,10
+switzerland,yugoslavia ,1
+the-netherlands,austria,5
+the-netherlands,belgium,6
+the-netherlands,cyprus,10
+the-netherlands,denmark,4
+the-netherlands,finland,3
+the-netherlands,france,8
+the-netherlands,germany,6
+the-netherlands,greece,8
+the-netherlands,ireland,6
+the-netherlands,israel,6
+the-netherlands,italy,1
+the-netherlands,luxembourg,5
+the-netherlands,monaco,9
+the-netherlands,norway,4
+the-netherlands,portugal,3
+the-netherlands,spain,6
+the-netherlands,sweden,5
+the-netherlands,switzerland,7
+the-netherlands,turkey,2
+the-netherlands,united kingdom,6
+turkey,albania,6
+turkey,armenia,6
+turkey,austria,5
+turkey,azerbaijan,12
+turkey,belgium,7
+turkey,bosnia & herzegovina,9
+turkey,denmark,1
+turkey,france,4
+turkey,georgia,5
+turkey,germany,8
+turkey,greece,8
+turkey,hungary,6
+turkey,iceland,2
+turkey,ireland,7
+turkey,israel,8
+turkey,italy,4
+turkey,luxembourg,1
+turkey,malta,8
+turkey,moldova,7
+turkey,monaco,5
+turkey,north macedonia,5
+turkey,norway,3
+turkey,portugal,4
+turkey,romania,4
+turkey,russia,4
+turkey,spain,8
+turkey,sweden,8
+turkey,switzerland,2
+turkey,the netherlands,8
+turkey,ukraine,1
+turkey,united kingdom,5
+turkey,yugoslavia,4
+ukraine,armenia,4
+ukraine,azerbaijan,10
+ukraine,belgium,1
+ukraine,croatia,8
+ukraine,denmark,5
+ukraine,estonia,3
+ukraine,france,4
+ukraine,georgia,9
+ukraine,germany,5
+ukraine,greece,6
+ukraine,hungary,3
+ukraine,israel,4
+ukraine,latvia,1
+ukraine,malta,10
+ukraine,moldova,9
+ukraine,norway,9
+ukraine,romania,2
+ukraine,russia,7
+ukraine,serbia & montenegro,3
+ukraine,spain,4
+ukraine,sweden,1
+ukraine,switzerland,5
+ukraine,turkey,8
+ukraine,united kingdom,5
+united-kingdom,albania,1
+united-kingdom,austria,3
+united-kingdom,azerbaijan,3
+united-kingdom,belgium,6
+united-kingdom,cyprus,10
+united-kingdom,denmark,5
+united-kingdom,finland,2
+united-kingdom,france,5
+united-kingdom,germany,7
+united-kingdom,greece,6
+united-kingdom,iceland,6
+united-kingdom,ireland,9
+united-kingdom,israel,6
+united-kingdom,italy,5
+united-kingdom,lithuania,5
+united-kingdom,luxembourg,8
+united-kingdom,malta,6
+united-kingdom,moldova,8
+united-kingdom,monaco,7
+united-kingdom,norway,6
+united-kingdom,romania,8
+united-kingdom,spain,3
+united-kingdom,sweden,3
+united-kingdom,switzerland,8
+united-kingdom,the netherlands,3
+united-kingdom,turkey,7
+united-kingdom,ukraine,3
+yugoslavia,austria,3
+yugoslavia,belgium,8
+yugoslavia,cyprus,5
+yugoslavia,france,8
+yugoslavia,germany,6
+yugoslavia,greece,1
+yugoslavia,ireland,5
+yugoslavia,israel,6
+yugoslavia,italy,6
+yugoslavia,monaco,4
+yugoslavia,spain,1
+yugoslavia,sweden,4
+yugoslavia,switzerland,10
+yugoslavia,the netherlands,5
+yugoslavia,turkey,3
+yugoslavia,united kingdom,9
